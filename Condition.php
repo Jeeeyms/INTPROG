@@ -47,7 +47,7 @@ function getDayMessage($dayInAWeek) {
 }
 
 // Sample inputs
-$age = 17;
+$age = 24;
 $temperature = 38.2;
 $maritalStatus = "single";
 $dayInAWeek = "Friday";
