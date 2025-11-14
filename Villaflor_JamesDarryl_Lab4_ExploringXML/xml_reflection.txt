@@ -1,0 +1,4 @@
+XML Validation Reflection
+
+Validating XML was a useful experience because it showed how important it is to follow the correct structure and formatting rules when working with data. 
+Even a small mistake in the schema, such as using the wrong root element or forgetting the proper namespace, can create dozens of errors and make the XML unreadable to a validator. Fixing the issues helped me better understand how XML works together with XSD, and it improved my attention to detail when handling structured documents.
